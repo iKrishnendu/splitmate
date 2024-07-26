@@ -16,7 +16,6 @@ import {
 } from "../../services/expenseServices";
 import { monthNamesMMM } from "../../utils/helper";
 import useResponsive from "../../theme/hooks/useResponsive";
-// import { set } from "mongoose";
 import AlertBanner from "../AlertBanner";
 
 export const CalenderExpenseGraph = () => {
