@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://splitapp-rnjo.onrender.com/">
+<!--   <a href="https://splitapp-rnjo.onrender.com/"> -->
     <img src="https://github.com/ikrishnendu/SplitMate/blob/master/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80">
-  </a>
+<!--   </a> -->
 
   <h2 align="center">SplitMate</h2>
 
@@ -36,7 +36,7 @@
 
 This is a side project I've been working on. A full stack expense spliting app - splitwise clone made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed to split group expense between friends. With this application, you can add your expense details and get an whole expense analytics feature - Group Balance, Monthly amount spend, Catagory wise expense spending graph etc... Jump right off the [Live App](https://) and start adding your expenses or download the entire [Source code](https://github.com/tuzup/SplitApp/) and run it on your server. This project is something I've been working on in my free time so I cannot be sure that everything will work out correctly. But I'll appreciate you if can report any issue.
 
-![Features](https://raw.githubusercontent.com/tuzup/SplitApp/master/Screenshots/combined-screenshot.png)
+![Features](https://raw.githubusercontent.com/ikrishnendu/SplitMate/master/Screenshots/combined-screenshot.png)
 
 ## Key Features
 
