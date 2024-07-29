@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <a href="https://splitapp-rnjo.onrender.com/"> -->
-    <img src="https://github.com/ikrishnendu/SplitMate/blob/master/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80">
+<!--     <img src="https://github.com/ikrishnendu/SplitMate/blob/master/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80"> -->
 <!--   </a> -->
 
   <h2 align="center">SplitMate</h2>
@@ -11,7 +11,7 @@
     <a href="https://github.com/ikrishnendu/SplitMate/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://splitapp-rnjo.onrender.com/">View Demo</a>
+<!--     <a href="https://splitapp-rnjo.onrender.com/">View Demo</a> -->
     ·
     <a href="https://github.com/ikrishnendu/SplitMate/issues">Report Bug</a>
     ·
